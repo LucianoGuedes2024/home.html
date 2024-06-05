@@ -106,13 +106,220 @@ div{
 }
     
 
+.div1{
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+}
 
 
 
+.div2{
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+}
+
+.div3{
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+}
+
+.div4{
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+}
 
 
+
+.div5{
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+}
+
+.menu hr{
+    height: 1px;
+    width: 50%;
+    margin-top: 40px;
+    margin: 46px auto;
+    background-color: black;
+    
+}
+
+.div6{
+    
+        width: 280px;
+        height: 250px;
+        background-color: #73a7fa;
+        color:black;
+        margin-left: 500px;
+        text-align: center;
+        box-shadow: 4px 4px 4px black;
+        border-radius: 20px;
+    
+    
+     
+}
 
     
+.div7{
+    
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
 
+
+ 
+}
+.div8{
     
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+
+ 
+}
+
+.div9{
     
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+
+
+ 
+}
+
+.div10{
+    
+    width: 280px;
+    height: 250px;
+    background-color: #73a7fa;
+    color:black;
+    margin-left: 500px;
+    text-align: center;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 20px;
+ }
+
+.home6 button{
+border-radius: 30px;
+margin-top: 40px;
+padding: 15px;
+font-size: 15px;
+color:white;
+background-color: #458cde;
+box-shadow: 4 px 4px 4px black;
+margin-left: 550px;
+}
+
+.home6 button:hover{
+    transition: 0.8;
+    color: #458cde;
+    background-color: black;
+}
+ 
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    background-color: #458cde;
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+}
+    
+    footer i{
+        font-size: 30px;
+        background-color: gray;
+        box-shadow: 4px 4px 4px black;
+        margin: 20px;
+    }
+.div1 h2{
+    border-radius: 20px;
+}
+    
+    .div2 h2{
+        border-radius: 20px;
+    }
+
+    .div3 h2{
+        border-radius: 20px;
+    }
+
+    .div4 h2{
+        border-radius: 20px;
+    }
+
+    .div5 h2{
+        border-radius: 20px;
+    }
+
+    .div6 h2{
+        border-radius: 20px;
+    }
+
+    .div7 h2{
+        border-radius: 20px;
+    }
+
+    .div8 h2{
+        border-radius: 20px;
+    }
+
+    .div9 h2{
+        border-radius: 20px;
+    }
+
+    .div10 h2{
+        border-radius: 20px;
+    }
