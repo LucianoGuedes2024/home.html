@@ -103,11 +103,16 @@ div h2{
 
 div{
     background-color: #9af0fa;
+    
+    
 }
     
 
 
-
+.div1{
+ border-radius: 20px;
+ margin-top: 20px;
+}
 
 
 
